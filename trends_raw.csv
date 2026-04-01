@@ -1,0 +1,37 @@
+post_id,title,subreddit,score,num_comments,author,collected_at
+47600382,Is BGP Safe Yet? No. Test Your ISP,technology,119,44,janandonly,2026-04-01T21:08:19.378372
+47597085,Claude Code Unpacked : A visual guide,technology,836,303,autocracy101,2026-04-01T21:08:19.378372
+47597935,CERN levels up with new superconducting karts,technology,282,59,fnands,2026-04-01T21:08:19.378372
+47599771,Show HN: Baton – A desktop app for developing with AI agents,technology,50,39,tordrt,2026-04-01T21:08:19.378372
+47573450,Intuiting Pratt Parsing,technology,88,24,signa11,2026-04-01T21:08:19.378372
+47539945,Consider the Greenland Shark (2020),technology,39,7,mooreds,2026-04-01T21:08:19.378372
+47597119,Claude Wrote a Full FreeBSD Remote Kernel RCE with Root Shell (CVE-2026-4747),technology,153,57,ishqdehlvi,2026-04-01T21:08:19.378372
+47571183,Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell),technology,159,59,wazHFsRy,2026-04-01T21:08:19.378372
+47599956,Show HN: Sycamore – next gen Rust web UI library using fine-grained reactivity,technology,59,42,lukechu10,2026-04-01T21:08:19.378372
+47552144,Ada and Spark on ARM Cortex-M – A Tutorial with Arduino and Nucleo Examples,technology,12,1,swq115,2026-04-01T21:08:19.378372
+47600434,"New Patches Allow Building Linux IPv6-Only, Option to Deprecate ""Legacy"" IPv4",technology,62,25,Bender,2026-04-01T21:08:19.378372
+47562961,Chess in SQL,technology,129,25,upmostly,2026-04-01T21:08:19.378372
+47593556,A dot a day keeps the clutter away,technology,445,132,scottlawson,2026-04-01T21:08:19.378372
+47593422,"Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",technology,339,134,PrismML,2026-04-01T21:08:19.378372
+47598511,I Quit. The Clankers Won,technology,298,304,domysee,2026-04-01T21:08:19.378372
+47541733,TinyLoRA – Learning to Reason in 13 Parameters,technology,216,38,sorenjan,2026-04-01T21:08:19.378372
+47557171,TruffleRuby,technology,168,21,tosh,2026-04-01T21:08:19.378372
+47593285,MiniStack (replacement for LocalStack),technology,277,56,kerblang,2026-04-01T21:08:19.378372
+47595572,Neanderthals survived on a knife's edge for 350k years,technology,207,154,Hooke,2026-04-01T21:08:19.378372
+47601168,OnlyOffice kills Nextcloud partnership for forking its project without approval,technology,22,11,bundie,2026-04-01T21:08:19.378372
+47586778,"The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",technology,1301,527,alex000kim,2026-04-01T21:08:19.378372
+47601107,AI has suddenly become more useful to open-source developers,technology,19,6,CrankyBear,2026-04-01T21:08:19.378372
+47558101,Bring Back MiniDV with This Raspberry Pi FireWire Hat,technology,94,17,ingve,2026-04-01T21:08:19.378372
+47549128,4D Doom,technology,255,63,chronolitus,2026-04-01T21:08:19.378372
+47601405,OpenAI demand sinks on secondary market as Anthropic runs hot,technology,84,31,helsinkiandrew,2026-04-01T21:08:19.378372
+47601310,"Iran war sparks renewables boom as Europeans rush to buy solar, heat pumps, EVs",worldnews,10,2,vrganj,2026-04-01T21:08:19.378372
+47541746,Show HN: Forkrun – NUMA-aware shell parallelizer (50×–400× faster than parallel),worldnews,139,37,jkool702,2026-04-01T21:08:19.378372
+47577761,Fedware: Government apps that spy harder than the apps they ban,worldnews,672,273,speckx,2026-04-01T21:08:19.378372
+47562342,Digitizing photos from the 1998 Game Boy Camera,sports,62,15,rockbruno,2026-04-01T21:08:19.378372
+47586614,Open source CAD in the browser (Solvespace),science,357,116,phkahler,2026-04-01T21:08:19.378372
+47588349,GitHub Monaspace Case Study,science,140,47,homebrewer,2026-04-01T21:08:19.378372
+47598415,A million new SpaceX satellites will destroy the night sky,science,37,29,01-_-,2026-04-01T21:08:19.378372
+47578086,Vulnerability research is cooked,science,249,167,pedro84,2026-04-01T21:08:19.378372
+47589856,Show HN: Postgres extension for BM25 relevance-ranked full-text search,entertainment,183,47,tjgreen,2026-04-01T21:08:19.378372
+47555035,"Show HN: Loreline, narrative language transpiled via Haxe: C++/C#/JS/Java/Py/Lua",entertainment,67,20,jeremyfa,2026-04-01T21:08:19.378372
+47588324,Show HN: Sundial – a new way to look at a weather forecast,entertainment,50,20,izaidi,2026-04-01T21:08:19.378372

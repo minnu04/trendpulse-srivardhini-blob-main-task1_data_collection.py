@@ -1,0 +1,728 @@
+{
+  "collected_at": "2026-04-01T21:07:30.742978",
+  "sources": {
+    "hackernews": {
+      "source": "HackerNews",
+      "timestamp": "2026-04-01T21:08:18.940135",
+      "stories_by_category": {
+        "technology": [
+          {
+            "post_id": 47600382,
+            "title": "Is BGP Safe Yet? No. Test Your ISP",
+            "subreddit": "technology",
+            "score": 119,
+            "num_comments": 44,
+            "author": "janandonly",
+            "collected_at": "2026-04-01T21:08:19.378372"
+          },
+          {
+            "post_id": 47597085,
+            "title": "Claude Code Unpacked : A visual guide",
+            "subreddit": "technology",
+            "score": 836,
+            "num_comments": 303,
+            "author": "autocracy101",
+            "collected_at": "2026-04-01T21:08:19.378372"
+          },
+          {
+            "post_id": 47597935,
+            "title": "CERN levels up with new superconducting karts",
+            "subreddit": "technology",
+            "score": 282,
+            "num_comments": 59,
+            "author": "fnands",
+            "collected_at": "2026-04-01T21:08:19.378372"
+          },
+          {
+            "post_id": 47599771,
+            "title": "Show HN: Baton – A desktop app for developing with AI agents",
+            "subreddit": "technology",
+            "score": 50,
+            "num_comments": 39,
+            "author": "tordrt",
+            "collected_at": "2026-04-01T21:08:19.378372"
+          },
+          {
+            "post_id": 47573450,
+            "title": "Intuiting Pratt Parsing",
+            "subreddit": "technology",
+            "score": 88,
+            "num_comments": 24,
+            "author": "signa11",
+            "collected_at": "2026-04-01T21:08:19.378372"
+          },
+          {
+            "post_id": 47539945,
+            "title": "Consider the Greenland Shark (2020)",
+            "subreddit": "technology",
+            "score": 39,
+            "num_comments": 7,
+            "author": "mooreds",
+            "collected_at": "2026-04-01T21:08:19.378372"
+          },
+          {
+            "post_id": 47597119,
+            "title": "Claude Wrote a Full FreeBSD Remote Kernel RCE with Root Shell (CVE-2026-4747)",
+            "subreddit": "technology",
+            "score": 153,
+            "num_comments": 57,
+            "author": "ishqdehlvi",
+            "collected_at": "2026-04-01T21:08:19.378372"
+          },
+          {
+            "post_id": 47571183,
+            "title": "Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)",
+            "subreddit": "technology",
+            "score": 159,
+            "num_comments": 59,
+            "author": "wazHFsRy",
+            "collected_at": "2026-04-01T21:08:19.378372"
+          },
+          {
+            "post_id": 47599956,
+            "title": "Show HN: Sycamore – next gen Rust web UI library using fine-grained reactivity",
+            "subreddit": "technology",
+            "score": 59,
+            "num_comments": 42,
+            "author": "lukechu10",
+            "collected_at": "2026-04-01T21:08:19.378372"
+          },
+          {
+            "post_id": 47552144,
+            "title": "Ada and Spark on ARM Cortex-M – A Tutorial with Arduino and Nucleo Examples",
+            "subreddit": "technology",
+            "score": 12,
+            "num_comments": 1,
+            "author": "swq115",
+            "collected_at": "2026-04-01T21:08:19.378372"
+          },
+          {
+            "post_id": 47600434,
+            "title": "New Patches Allow Building Linux IPv6-Only, Option to Deprecate \"Legacy\" IPv4",
+            "subreddit": "technology",
+            "score": 62,
+            "num_comments": 25,
+            "author": "Bender",
+            "collected_at": "2026-04-01T21:08:19.378372"
+          },
+          {
+            "post_id": 47562961,
+            "title": "Chess in SQL",
+            "subreddit": "technology",
+            "score": 129,
+            "num_comments": 25,
+            "author": "upmostly",
+            "collected_at": "2026-04-01T21:08:19.378372"
+          },
+          {
+            "post_id": 47593556,
+            "title": "A dot a day keeps the clutter away",
+            "subreddit": "technology",
+            "score": 445,
+            "num_comments": 132,
+            "author": "scottlawson",
+            "collected_at": "2026-04-01T21:08:19.378372"
+          },
+          {
+            "post_id": 47593422,
+            "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
+            "subreddit": "technology",
+            "score": 339,
+            "num_comments": 134,
+            "author": "PrismML",
+            "collected_at": "2026-04-01T21:08:19.378372"
+          },
+          {
+            "post_id": 47598511,
+            "title": "I Quit. The Clankers Won",
+            "subreddit": "technology",
+            "score": 298,
+            "num_comments": 304,
+            "author": "domysee",
+            "collected_at": "2026-04-01T21:08:19.378372"
+          },
+          {
+            "post_id": 47541733,
+            "title": "TinyLoRA – Learning to Reason in 13 Parameters",
+            "subreddit": "technology",
+            "score": 216,
+            "num_comments": 38,
+            "author": "sorenjan",
+            "collected_at": "2026-04-01T21:08:19.378372"
+          },
+          {
+            "post_id": 47557171,
+            "title": "TruffleRuby",
+            "subreddit": "technology",
+            "score": 168,
+            "num_comments": 21,
+            "author": "tosh",
+            "collected_at": "2026-04-01T21:08:19.378372"
+          },
+          {
+            "post_id": 47593285,
+            "title": "MiniStack (replacement for LocalStack)",
+            "subreddit": "technology",
+            "score": 277,
+            "num_comments": 56,
+            "author": "kerblang",
+            "collected_at": "2026-04-01T21:08:19.378372"
+          },
+          {
+            "post_id": 47595572,
+            "title": "Neanderthals survived on a knife's edge for 350k years",
+            "subreddit": "technology",
+            "score": 207,
+            "num_comments": 154,
+            "author": "Hooke",
+            "collected_at": "2026-04-01T21:08:19.378372"
+          },
+          {
+            "post_id": 47601168,
+            "title": "OnlyOffice kills Nextcloud partnership for forking its project without approval",
+            "subreddit": "technology",
+            "score": 22,
+            "num_comments": 11,
+            "author": "bundie",
+            "collected_at": "2026-04-01T21:08:19.378372"
+          },
+          {
+            "post_id": 47586778,
+            "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
+            "subreddit": "technology",
+            "score": 1301,
+            "num_comments": 527,
+            "author": "alex000kim",
+            "collected_at": "2026-04-01T21:08:19.378372"
+          },
+          {
+            "post_id": 47601107,
+            "title": "AI has suddenly become more useful to open-source developers",
+            "subreddit": "technology",
+            "score": 19,
+            "num_comments": 6,
+            "author": "CrankyBear",
+            "collected_at": "2026-04-01T21:08:19.378372"
+          },
+          {
+            "post_id": 47558101,
+            "title": "Bring Back MiniDV with This Raspberry Pi FireWire Hat",
+            "subreddit": "technology",
+            "score": 94,
+            "num_comments": 17,
+            "author": "ingve",
+            "collected_at": "2026-04-01T21:08:19.378372"
+          },
+          {
+            "post_id": 47549128,
+            "title": "4D Doom",
+            "subreddit": "technology",
+            "score": 255,
+            "num_comments": 63,
+            "author": "chronolitus",
+            "collected_at": "2026-04-01T21:08:19.378372"
+          },
+          {
+            "post_id": 47601405,
+            "title": "OpenAI demand sinks on secondary market as Anthropic runs hot",
+            "subreddit": "technology",
+            "score": 84,
+            "num_comments": 31,
+            "author": "helsinkiandrew",
+            "collected_at": "2026-04-01T21:08:19.378372"
+          }
+        ],
+        "worldnews": [
+          {
+            "post_id": 47601310,
+            "title": "Iran war sparks renewables boom as Europeans rush to buy solar, heat pumps, EVs",
+            "subreddit": "worldnews",
+            "score": 10,
+            "num_comments": 2,
+            "author": "vrganj",
+            "collected_at": "2026-04-01T21:08:19.378372"
+          },
+          {
+            "post_id": 47541746,
+            "title": "Show HN: Forkrun – NUMA-aware shell parallelizer (50×–400× faster than parallel)",
+            "subreddit": "worldnews",
+            "score": 139,
+            "num_comments": 37,
+            "author": "jkool702",
+            "collected_at": "2026-04-01T21:08:19.378372"
+          },
+          {
+            "post_id": 47577761,
+            "title": "Fedware: Government apps that spy harder than the apps they ban",
+            "subreddit": "worldnews",
+            "score": 672,
+            "num_comments": 273,
+            "author": "speckx",
+            "collected_at": "2026-04-01T21:08:19.378372"
+          }
+        ],
+        "sports": [
+          {
+            "post_id": 47562342,
+            "title": "Digitizing photos from the 1998 Game Boy Camera",
+            "subreddit": "sports",
+            "score": 62,
+            "num_comments": 15,
+            "author": "rockbruno",
+            "collected_at": "2026-04-01T21:08:19.378372"
+          }
+        ],
+        "science": [
+          {
+            "post_id": 47586614,
+            "title": "Open source CAD in the browser (Solvespace)",
+            "subreddit": "science",
+            "score": 357,
+            "num_comments": 116,
+            "author": "phkahler",
+            "collected_at": "2026-04-01T21:08:19.378372"
+          },
+          {
+            "post_id": 47588349,
+            "title": "GitHub Monaspace Case Study",
+            "subreddit": "science",
+            "score": 140,
+            "num_comments": 47,
+            "author": "homebrewer",
+            "collected_at": "2026-04-01T21:08:19.378372"
+          },
+          {
+            "post_id": 47598415,
+            "title": "A million new SpaceX satellites will destroy the night sky",
+            "subreddit": "science",
+            "score": 37,
+            "num_comments": 29,
+            "author": "01-_-",
+            "collected_at": "2026-04-01T21:08:19.378372"
+          },
+          {
+            "post_id": 47578086,
+            "title": "Vulnerability research is cooked",
+            "subreddit": "science",
+            "score": 249,
+            "num_comments": 167,
+            "author": "pedro84",
+            "collected_at": "2026-04-01T21:08:19.378372"
+          }
+        ],
+        "entertainment": [
+          {
+            "post_id": 47589856,
+            "title": "Show HN: Postgres extension for BM25 relevance-ranked full-text search",
+            "subreddit": "entertainment",
+            "score": 183,
+            "num_comments": 47,
+            "author": "tjgreen",
+            "collected_at": "2026-04-01T21:08:19.378372"
+          },
+          {
+            "post_id": 47555035,
+            "title": "Show HN: Loreline, narrative language transpiled via Haxe: C++/C#/JS/Java/Py/Lua",
+            "subreddit": "entertainment",
+            "score": 67,
+            "num_comments": 20,
+            "author": "jeremyfa",
+            "collected_at": "2026-04-01T21:08:19.378372"
+          },
+          {
+            "post_id": 47588324,
+            "title": "Show HN: Sundial – a new way to look at a weather forecast",
+            "subreddit": "entertainment",
+            "score": 50,
+            "num_comments": 20,
+            "author": "izaidi",
+            "collected_at": "2026-04-01T21:08:19.378372"
+          }
+        ]
+      },
+      "total_collected": 36,
+      "error": null,
+      "status": "success"
+    },
+    "twitter": {
+      "source": "Twitter",
+      "timestamp": "2026-04-01T21:09:10.716089",
+      "trends": [
+        {
+          "name": "#Python",
+          "tweet_volume": 45000
+        },
+        {
+          "name": "#DataScience",
+          "tweet_volume": 38000
+        },
+        {
+          "name": "#TrendingNow",
+          "tweet_volume": 72000
+        }
+      ],
+      "error": null,
+      "status": "success"
+    },
+    "google": {
+      "source": "Google",
+      "timestamp": "2026-04-01T21:09:10.716315",
+      "trends": [
+        {
+          "term": "Python programming",
+          "volume": 125000
+        },
+        {
+          "term": "Machine Learning",
+          "volume": 98000
+        },
+        {
+          "term": "Artificial Intelligence",
+          "volume": 156000
+        }
+      ],
+      "error": null,
+      "status": "success"
+    },
+    "reddit": {
+      "source": "Reddit",
+      "timestamp": "2026-04-01T21:09:10.716451",
+      "trends": [
+        {
+          "title": "Data Science Discussion",
+          "score": 25000,
+          "subreddit": "r/datascience"
+        },
+        {
+          "title": "Python Tips and Tricks",
+          "score": 18500,
+          "subreddit": "r/Python"
+        },
+        {
+          "title": "AI Breakthroughs",
+          "score": 31000,
+          "subreddit": "r/MachineLearning"
+        }
+      ],
+      "error": null,
+      "status": "success"
+    },
+    "hashtags": {
+      "source": "Hashtag Aggregation",
+      "timestamp": "2026-04-01T21:09:10.716611",
+      "trends": [
+        {
+          "hashtag": "#AI",
+          "frequency": 145000
+        },
+        {
+          "hashtag": "#Technology",
+          "frequency": 128000
+        },
+        {
+          "hashtag": "#Innovation",
+          "frequency": 87000
+        },
+        {
+          "hashtag": "#Cloud",
+          "frequency": 76000
+        }
+      ],
+      "error": null,
+      "status": "success"
+    }
+  },
+  "aggregated_trends": [
+    {
+      "trend": "technology",
+      "mentions_across_sources": 25,
+      "importance_score": 2500
+    },
+    {
+      "trend": "science",
+      "mentions_across_sources": 4,
+      "importance_score": 400
+    },
+    {
+      "trend": "worldnews",
+      "mentions_across_sources": 3,
+      "importance_score": 300
+    },
+    {
+      "trend": "entertainment",
+      "mentions_across_sources": 3,
+      "importance_score": 300
+    },
+    {
+      "trend": "sports",
+      "mentions_across_sources": 1,
+      "importance_score": 100
+    },
+    {
+      "trend": "#Python",
+      "mentions_across_sources": 1,
+      "importance_score": 100
+    },
+    {
+      "trend": "#DataScience",
+      "mentions_across_sources": 1,
+      "importance_score": 100
+    },
+    {
+      "trend": "#TrendingNow",
+      "mentions_across_sources": 1,
+      "importance_score": 100
+    },
+    {
+      "trend": "Python programming",
+      "mentions_across_sources": 1,
+      "importance_score": 100
+    },
+    {
+      "trend": "Machine Learning",
+      "mentions_across_sources": 1,
+      "importance_score": 100
+    },
+    {
+      "trend": "Artificial Intelligence",
+      "mentions_across_sources": 1,
+      "importance_score": 100
+    },
+    {
+      "trend": "Data Science Discussion",
+      "mentions_across_sources": 1,
+      "importance_score": 100
+    },
+    {
+      "trend": "Python Tips and Tricks",
+      "mentions_across_sources": 1,
+      "importance_score": 100
+    },
+    {
+      "trend": "AI Breakthroughs",
+      "mentions_across_sources": 1,
+      "importance_score": 100
+    },
+    {
+      "trend": "#AI",
+      "mentions_across_sources": 1,
+      "importance_score": 100
+    },
+    {
+      "trend": "#Technology",
+      "mentions_across_sources": 1,
+      "importance_score": 100
+    },
+    {
+      "trend": "#Innovation",
+      "mentions_across_sources": 1,
+      "importance_score": 100
+    },
+    {
+      "trend": "#Cloud",
+      "mentions_across_sources": 1,
+      "importance_score": 100
+    }
+  ],
+  "categories": {
+    "technology": [
+      {
+        "post_id": 47586778,
+        "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
+        "subreddit": "technology",
+        "score": 1301,
+        "num_comments": 527,
+        "author": "alex000kim",
+        "collected_at": "2026-04-01T21:08:19.378372"
+      },
+      {
+        "post_id": 47597085,
+        "title": "Claude Code Unpacked : A visual guide",
+        "subreddit": "technology",
+        "score": 836,
+        "num_comments": 303,
+        "author": "autocracy101",
+        "collected_at": "2026-04-01T21:08:19.378372"
+      },
+      {
+        "post_id": 47593556,
+        "title": "A dot a day keeps the clutter away",
+        "subreddit": "technology",
+        "score": 445,
+        "num_comments": 132,
+        "author": "scottlawson",
+        "collected_at": "2026-04-01T21:08:19.378372"
+      },
+      {
+        "post_id": 47593422,
+        "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
+        "subreddit": "technology",
+        "score": 339,
+        "num_comments": 134,
+        "author": "PrismML",
+        "collected_at": "2026-04-01T21:08:19.378372"
+      },
+      {
+        "post_id": 47598511,
+        "title": "I Quit. The Clankers Won",
+        "subreddit": "technology",
+        "score": 298,
+        "num_comments": 304,
+        "author": "domysee",
+        "collected_at": "2026-04-01T21:08:19.378372"
+      },
+      {
+        "post_id": 47597935,
+        "title": "CERN levels up with new superconducting karts",
+        "subreddit": "technology",
+        "score": 282,
+        "num_comments": 59,
+        "author": "fnands",
+        "collected_at": "2026-04-01T21:08:19.378372"
+      },
+      {
+        "post_id": 47593285,
+        "title": "MiniStack (replacement for LocalStack)",
+        "subreddit": "technology",
+        "score": 277,
+        "num_comments": 56,
+        "author": "kerblang",
+        "collected_at": "2026-04-01T21:08:19.378372"
+      },
+      {
+        "post_id": 47549128,
+        "title": "4D Doom",
+        "subreddit": "technology",
+        "score": 255,
+        "num_comments": 63,
+        "author": "chronolitus",
+        "collected_at": "2026-04-01T21:08:19.378372"
+      },
+      {
+        "post_id": 47541733,
+        "title": "TinyLoRA – Learning to Reason in 13 Parameters",
+        "subreddit": "technology",
+        "score": 216,
+        "num_comments": 38,
+        "author": "sorenjan",
+        "collected_at": "2026-04-01T21:08:19.378372"
+      },
+      {
+        "post_id": 47595572,
+        "title": "Neanderthals survived on a knife's edge for 350k years",
+        "subreddit": "technology",
+        "score": 207,
+        "num_comments": 154,
+        "author": "Hooke",
+        "collected_at": "2026-04-01T21:08:19.378372"
+      }
+    ],
+    "worldnews": [
+      {
+        "post_id": 47577761,
+        "title": "Fedware: Government apps that spy harder than the apps they ban",
+        "subreddit": "worldnews",
+        "score": 672,
+        "num_comments": 273,
+        "author": "speckx",
+        "collected_at": "2026-04-01T21:08:19.378372"
+      },
+      {
+        "post_id": 47541746,
+        "title": "Show HN: Forkrun – NUMA-aware shell parallelizer (50×–400× faster than parallel)",
+        "subreddit": "worldnews",
+        "score": 139,
+        "num_comments": 37,
+        "author": "jkool702",
+        "collected_at": "2026-04-01T21:08:19.378372"
+      },
+      {
+        "post_id": 47601310,
+        "title": "Iran war sparks renewables boom as Europeans rush to buy solar, heat pumps, EVs",
+        "subreddit": "worldnews",
+        "score": 10,
+        "num_comments": 2,
+        "author": "vrganj",
+        "collected_at": "2026-04-01T21:08:19.378372"
+      }
+    ],
+    "sports": [
+      {
+        "post_id": 47562342,
+        "title": "Digitizing photos from the 1998 Game Boy Camera",
+        "subreddit": "sports",
+        "score": 62,
+        "num_comments": 15,
+        "author": "rockbruno",
+        "collected_at": "2026-04-01T21:08:19.378372"
+      }
+    ],
+    "science": [
+      {
+        "post_id": 47586614,
+        "title": "Open source CAD in the browser (Solvespace)",
+        "subreddit": "science",
+        "score": 357,
+        "num_comments": 116,
+        "author": "phkahler",
+        "collected_at": "2026-04-01T21:08:19.378372"
+      },
+      {
+        "post_id": 47578086,
+        "title": "Vulnerability research is cooked",
+        "subreddit": "science",
+        "score": 249,
+        "num_comments": 167,
+        "author": "pedro84",
+        "collected_at": "2026-04-01T21:08:19.378372"
+      },
+      {
+        "post_id": 47588349,
+        "title": "GitHub Monaspace Case Study",
+        "subreddit": "science",
+        "score": 140,
+        "num_comments": 47,
+        "author": "homebrewer",
+        "collected_at": "2026-04-01T21:08:19.378372"
+      },
+      {
+        "post_id": 47598415,
+        "title": "A million new SpaceX satellites will destroy the night sky",
+        "subreddit": "science",
+        "score": 37,
+        "num_comments": 29,
+        "author": "01-_-",
+        "collected_at": "2026-04-01T21:08:19.378372"
+      }
+    ],
+    "entertainment": [
+      {
+        "post_id": 47589856,
+        "title": "Show HN: Postgres extension for BM25 relevance-ranked full-text search",
+        "subreddit": "entertainment",
+        "score": 183,
+        "num_comments": 47,
+        "author": "tjgreen",
+        "collected_at": "2026-04-01T21:08:19.378372"
+      },
+      {
+        "post_id": 47555035,
+        "title": "Show HN: Loreline, narrative language transpiled via Haxe: C++/C#/JS/Java/Py/Lua",
+        "subreddit": "entertainment",
+        "score": 67,
+        "num_comments": 20,
+        "author": "jeremyfa",
+        "collected_at": "2026-04-01T21:08:19.378372"
+      },
+      {
+        "post_id": 47588324,
+        "title": "Show HN: Sundial – a new way to look at a weather forecast",
+        "subreddit": "entertainment",
+        "score": 50,
+        "num_comments": 20,
+        "author": "izaidi",
+        "collected_at": "2026-04-01T21:08:19.378372"
+      }
+    ]
+  }
+}
